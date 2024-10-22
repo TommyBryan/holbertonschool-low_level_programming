@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - 
+ * main - printf("Size of char, init, float, double"
  *
  * Return: Always 0.
  */
@@ -11,7 +11,7 @@ int main(void)
 	printf("Size of float: %zu bytes\n", sizeof(float));
 	printf("Size of double: %zy bytes\n", sizeof(double));
 
-	return 0;
+	return (0);
 }
 
 
