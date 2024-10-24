@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main
+ * main- Generates a random number, prints last digit
  *
  * Return: Always 0
  */
@@ -25,7 +25,7 @@ int main(void)
 }
 	else if (last_digit == 0)
 {
-	printf(" and is less than 6 and not 0\n");
+	printf(" and is 0\n");
 }
 	else if (last_digit < 6 && last_digit != 0)
 {
