@@ -6,7 +6,7 @@
  * @n: input value
  * Return: dest
  */
-chat *_strncpy(char *dest, char *src, int n)
+chart *_strncpy(char *dest, char *src, int n)
 {
 	int i;
 
