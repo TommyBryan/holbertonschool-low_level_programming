@@ -2,8 +2,8 @@
 /**
  * _memcpy - copies memory area
  * @dest: address to be copied
- * @src:
- * @n:
+ * @src: source
+ * @n: characters to be copied
  * Return: nothing
  */
 char *_memcpy(char *dest, char *src, unsigned int n)
